@@ -14,3 +14,12 @@ We endeavor to analyze this data, and expand on this statement later. The purpos
 * A6. Create a histogram that shows the distribution of age among respondents.
 * Advanced Question: Create a heatmap of the United States displaying the largest immigrant groups by state and territory.
 * Advanced Advanced Question: Create a heatmap of the world displaying the largest immigrant groups by country that now reside within the United States.
+
+# 
+
+Lesson Learned: here are the skill sets we created
+error finding
+Google is good
+stackoverflow
+seaborn
+repurposing existing code
