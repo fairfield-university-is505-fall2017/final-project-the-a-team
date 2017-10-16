@@ -2,7 +2,7 @@
 by Trang Vu, Vincent Rella, and Anthony Iorio
 
 ## Background
-We endeavor to analyze this data, and expand on this statement later. The purpose of our analysis is to analyze demographic and gender characteristics, and relate it to income and education levels to see current trends in our population.
+Using census-derived data, the purpose of our analysis is to analyze demographic and gender characteristics, and relate it to income and education levels to see current trends in our population. Additionally, we aimed to show immigrant settlement trends by cross-referencing the data with DHS statistics on the preferred areas where newcomers chose to settle down in the United States.
 
 ### What is ['adult.csv'](https://www.kaggle.com/uciml/adult-census-income)?
 We're glad you asked! This is a comma-seperated value file containing the records of more than 32,500 individuals, all surveyed inside the United States taken from 1994 US Census data. When considering the data, keep in mind the following:
@@ -46,27 +46,26 @@ Having the data is one thing, but utilizing it to extract useful, informative tr
 
 ### Questions
 Each of us set We set out to perform the following operations with the data:
-* V1. Create a pie chart that reveals the distribution of income among various races.
-  * This was completed, and is reflected in the report. 
+* V1. Create a pie chart that reveals the distribution of income among various relationship types.
+  * This was completed, and is reflected in the report. For the marital status category, married-civ-spouse (married, with civilian spouse) earns more than other statuses. 44.7% of married civ-spouse earn more than 50k per year.
 * V2. Create a pie chart of demographic composition.
-  * 
+  * This allowed us to see the demographic composition of the dataset at a glance. We found that the majority of the demograpic in this sample was described as White, at 85.54%. The next largest value was African American with 9.59%, Asian/Pacific Islander with 3.19%, then American-Indian .956%. The Other category consists of .83%.
 * T3. What is the relationship between the variables in this dataset? What is the correlation, if any?
-  * 
+  * Based on the heatmap and the correlation coefficient, there is a parallel correlation between quatitative variables in the dataset. See the report for more information.
 * T4. What is the relationship between the level of education and level of income, if any?
-  * 
+  * There is a connection between income and education level. Generally speaking, more education means more income. With few exceptions, people who got PhD or Masters' degrees earn more than 50k per year. 
 * A5. Create a bar chart that shows the distribution of income among females and males.
-  * 
+  * Looking at the chart, we see an obvious trend that males earn higher incomes than females among the individuals surveyed in this dataset. To better understand why, view the full report.
 * A6. Create a histogram that shows the distribution of age among respondents.
-  * 
+  * The distribution of age was highly skewed to the right.
 * Advanced Question: Create a heatmap of the United States displaying the largest immigrant groups by state and territory.
-  * 
+  * This was completed, and we highly recommend you actually view the heatmap by viewing the report!
 * Really Advanced Question: Create a heatmap of the world displaying the largest immigrant groups by country that now reside within the United States.
-  * 
+  * This was completed, and we highly recommend you actually view the heatmap by viewing the report!* 
 
 ## Takeaways
-* Lesson Learned: here are the skill sets we created
-* error finding
-* Google is good
-* stackoverflow
-* seaborn
-* repurposing existing code
+There were a few key takeaways that really stuck out at us toward the end of this project, particularly with regard to the myriad of errors that we were forced to surmount in order to complete it! Here's our top 5 takeaways, as a group.
+* **Error diagnosis is paramount.** Ideally, each group member should be equally skilled in diagnosing the errors that their code will invariably yield before it finally works. However, ff there is one group member who feels patrticularly comfortable being the diagnostician, use their expertise to better understand your own errors. It helps everyone get on!
+* **Use unified references.** We created three workspaces, `workspace_trang`, `workspace_vin`, and `workspace_anthony` to write some code in our own silos, and planned to fuse that later on - which is what we did. However, we quickly realized that seperate development efforts meant our code had very little in common to reference, so we were stuck constantly redefining dataframes or performing redundant operations that one of us had already completed. That's why we took a break from coding, made sure our efforts aligned and used similar references, and then continued on our way. It would have been a headache if we didn't!
+* **Google really is your friend.** There really is no error message so unique that literally nobody else has encountered it - we were heartened by the legions of other budding programmers who also ran into similar problems (or in many cases, the exact same ones) as us, as it helped us find a solution to our problems. Of course, Google also directed us to invaluable developer resources such as verbose documentation, which helped us understand neato modules like Matplotlib and Seaborn. (We're big fans.) Stackoverflow really is a blessing!
+* **Lazy isn't necessarily a bad thing.** Yes, programmers are lazy, but in a good way - why reinvent the wheel if you've invented it already? Repurposing existing code (when done right, of course) frees up development resources, which enables you to find ways to make that code even better, or pursue the development of even more advanced functions that enhance the project more than stressing out about basic stuff ever could. This class has been a learning experience for us all, and building on the code we already created helped us maximize our learning even more!
