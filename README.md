@@ -19,8 +19,8 @@ We're glad you asked! This is a comma-seperated value file containing the record
   * **Relationship (`relationship`)**<sup>4</sup>
   * **Race (`race`)**
   * **Sex (`sex`)**
-  * Capital Gain (`capital.gain`)<sup>5</sup>
-  * Capital Loss (`capital.loss`)<sup>6</sup>
+  * **Capital Gain (`capital.gain`)**<sup>5</sup>
+  * ** Capital Loss (`capital.loss`)**<sup>6</sup>
   * **Working Hours per Week (`hours.per.week`)**
   * **Native Country (`native.country`)**
   * **Income (`income`)**
