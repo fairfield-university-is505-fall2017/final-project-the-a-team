@@ -46,18 +46,19 @@ Having the data is one thing, but utilizing it to extract useful, informative tr
 
 ### Questions
 We set out to perform the following operations with the data:
-* V1. Create a pie chart that reveals the distribution of income among various relationship types.
+* V1. What is the distribution of income among various relationship types?
   * This was completed, and is reflected in the report. For the marital status category, married-civ-spouse (married, with civilian spouse) earns more than other statuses. 44.7% of married civ-spouse earn more than 50k per year.
-* V2. Create a pie chart of demographic composition.
+* V2. We would like to know general information about the demographic composition and  age
   * This allowed us to see the demographic composition of the dataset at a glance. We found that the majority of the demograpic in this sample was described as White, at 85.54%. The next largest value was African American with 9.59%, Asian/Pacific Islander with 3.19%, then American-Indian .956%. The Other category consists of .83%.
+  * The distribution of age was highly skewed to the right
 * T3. What is the relationship between the variables in this dataset? What is the correlation, if any?
-  * Based on the heatmap and the correlation coefficient, there is a parallel correlation between quatitative variables in the dataset. See the report for more information.
+  * Based on the heatmap and the correlation coefficient, there is no correlation between quantitative variables in the dataset. See the report for more information.
 * T4. What is the relationship between the level of education and level of income, if any?
   * There is a connection between income and education level. Generally speaking, more education means more income. With few exceptions, people who got PhD or Masters' degrees earn more than 50k per year. 
-* A5. Create a bar chart that shows the distribution of income among females and males.
+* A5. Which gender earns higher income? 
   * Looking at the chart, we see an obvious trend that males earn higher incomes than females among the individuals surveyed in this dataset. To better understand why, view the full report.
-* A6. Create a histogram that shows the distribution of age among respondents.
-  * The distribution of age was highly skewed to the right.
+* A6. Which occupation work more hours per week? If they work more, would they earn more income?
+  * On average, people who are farm fishing work the most, 50 hours per week, but their income is low compared to other occupation. Exec-managerial and prof-specialty earn the most.
 * Advanced Question: Create a heatmap of the United States displaying the largest immigrant groups by state and territory.
   * This was completed, and we highly recommend you actually view the heatmap by viewing the report!
 * Really Advanced Question: Create a heatmap of the world displaying the largest immigrant groups by country that now reside within the United States.
