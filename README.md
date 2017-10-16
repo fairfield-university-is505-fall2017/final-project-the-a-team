@@ -42,18 +42,28 @@ We're glad you asked! This is a comma-seperated value file containing the record
 * The US Department of Homeland Security, which curated the collection *2015 Yearbook of Immigration Statistics*, is responsible for the data used to create that heatmap. The data can be found [here](https://www.dhs.gov/immigration-statistics/yearbook/2015/table4).
 
 ## Analysis
-### Questions
-We set out to perform the following operations with the data:
-* V1. Create a pie chart that reveals the distribution of income among various races.
-* V2. Create a pie chart of demographic composition.
-* T3. What is the relationship between the variables in this dataset? What is the correlation, if any?
-* T4. What is the relationship between the level of education and level of income, if any?
-* A5. Create a bar chart that shows the distribution of income among females and males.
-* A6. Create a histogram that shows the distribution of age among respondents.
-* Advanced Question: Create a heatmap of the United States displaying the largest immigrant groups by state and territory.
-* Advanced Advanced Question: Create a heatmap of the world displaying the largest immigrant groups by country that now reside within the United States.
+Having the data is one thing, but utilizing it to extract useful, informative trends is another. We performed an analysis centering on the following questions outlined below, with a brief description of what we found below them. For the full details, we encourage you to view the full report!
 
-## The Takeaways
+### Questions
+Each of us set We set out to perform the following operations with the data:
+* V1. Create a pie chart that reveals the distribution of income among various races.
+  * This was completed, and is reflected in the report. 
+* V2. Create a pie chart of demographic composition.
+  * 
+* T3. What is the relationship between the variables in this dataset? What is the correlation, if any?
+  * 
+* T4. What is the relationship between the level of education and level of income, if any?
+  * 
+* A5. Create a bar chart that shows the distribution of income among females and males.
+  * 
+* A6. Create a histogram that shows the distribution of age among respondents.
+  * 
+* Advanced Question: Create a heatmap of the United States displaying the largest immigrant groups by state and territory.
+  * 
+* Really Advanced Question: Create a heatmap of the world displaying the largest immigrant groups by country that now reside within the United States.
+  * 
+
+## Takeaways
 * Lesson Learned: here are the skill sets we created
 * error finding
 * Google is good
