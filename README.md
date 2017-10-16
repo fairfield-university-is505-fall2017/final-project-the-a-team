@@ -30,13 +30,13 @@ We're glad you asked! This is a comma-seperated value file containing the record
 
 <sup>2</sup> This is a continuous attribute . For more information, see a similar study that also endeavored to explain the variable definitions either [here](http://mhahsler.github.io/arules/reference/Adult.html), or [here](http://webcache.googleusercontent.com/search?q=cache:XDAnLT7ItZIJ:mhahsler.github.io/arules/reference/Adult.html+&cd=1&hl=en&ct=clnk&gl=us) (as the last link appears to have been taken down).
 
-<sup>3</sup> This is a numeric representation of the attribute `education`, determined based on the Census Bureau's conversion formula for academic levels.
+<sup>3</sup> This is a numeric representation of the attribute `education`, determined based on the Census Bureau's conversion formula for academic levels. Since this relates to a formula that is not clearly defined and/or encompasses other datasets, we did not choose to utilize this varable.
 
 <sup>4</sup> This is a descriptor that is highly related to the attribute `marital.status`, but expresses the status in the context of the individual being surveyed (for example, "husband" or "unmarried").
 
-<sup>5</sup> A numeric vector used to chart possible positive variations (gains) in capital. Since this relates to a timespan that is not clearly defined and/or encompasses other datasets, we did not choose to utilize this varable.
+<sup>5</sup> A numeric vector used to chart possible positive variations (gains) in capital.
 
-<sup>6</sup> A numeric vector used to chart possible negative variations (losses) in capital. Since this relates to a timespan that is not clearly defined and/or encompasses other datasets, we did not choose to utilize this varable.
+<sup>6</sup> A numeric vector used to chart possible negative variations (losses) in capital.
 
 ### How was the heatmap showing where new immigrants are settling created?
 * The US Department of Homeland Security, which curated the collection *2015 Yearbook of Immigration Statistics*, is responsible for the data used to create that heatmap. The data can be found [here](https://www.dhs.gov/immigration-statistics/yearbook/2015/table4).
