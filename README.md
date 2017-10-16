@@ -59,9 +59,9 @@ We set out to perform the following operations with the data:
   * Looking at the chart, we see an obvious trend that males earn higher incomes than females among the individuals surveyed in this dataset. To better understand why, view the full report.
 * A6. Which occupation work more hours per week? If they work more, would they earn more income?
   * On average, people who are farm fishing work the most, 50 hours per week, but their income is low compared to other occupation. Exec-managerial and prof-specialty earn the most.
-* Advanced Question: Create a heatmap of the United States displaying the largest immigrant groups by state and territory.
+* Advanced Question: Which states in the United States have the largest immigrant groups?
   * This was completed, and we highly recommend you actually view the heatmap by viewing the report!
-* Really Advanced Question: Create a heatmap of the world displaying the largest immigrant groups by country that now reside within the United States.
+* Really Advanced Question: Which country has the largest immigrant groups that now reside within the United States?
   * This was completed, and we highly recommend you actually view the heatmap by viewing the report!* 
 
 ## Takeaways
