@@ -45,7 +45,7 @@ We're glad you asked! This is a comma-seperated value file containing the record
 Having the data is one thing, but utilizing it to extract useful, informative trends is another. We performed an analysis centering on the following questions outlined below, with a brief description of what we found below them. For the full details, we encourage you to view the full report!
 
 ### Questions
-Each of us set We set out to perform the following operations with the data:
+We set out to perform the following operations with the data:
 * V1. Create a pie chart that reveals the distribution of income among various relationship types.
   * This was completed, and is reflected in the report. For the marital status category, married-civ-spouse (married, with civilian spouse) earns more than other statuses. 44.7% of married civ-spouse earn more than 50k per year.
 * V2. Create a pie chart of demographic composition.
