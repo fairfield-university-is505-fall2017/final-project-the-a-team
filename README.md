@@ -50,7 +50,7 @@ We set out to perform the following operations with the data:
   * This was completed, and is reflected in the report. For the marital status category, married-civ-spouse (married, with civilian spouse) earns more than other statuses. 44.7% of married civ-spouse earn more than 50k per year.
 * V2. We would like to know general information about the demographic composition and  age
   * This allowed us to see the demographic composition of the dataset at a glance. We found that the majority of the demograpic in this sample was described as White, at 85.54%. The next largest value was African American with 9.59%, Asian/Pacific Islander with 3.19%, then American-Indian .956%. The Other category consists of .83%.
-  * The distribution of age was highly skewed to the right
+  * The distribution of age was skewed to the right.
 * T3. What is the relationship between the variables in this dataset? What is the correlation, if any?
   * Based on the heatmap and the correlation coefficient, there is no correlation between quantitative variables in the dataset. See the report for more information.
 * T4. What is the relationship between the level of education and level of income, if any?
